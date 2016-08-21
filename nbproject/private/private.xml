@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/dao/NameValueDao.java</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/dao/NameValueDaoFactory.java</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/dao/MySqlDaoImpl.java</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/entity/NameValue.java</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/biz/DirServer.java</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/hibernate.cfg.xml</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/entity/NameValue.hbm.xml</file>
+        <file>file:/D:/JAVA%20Parvini%20-%20ACM1-2-3-4/ACM1-2/final_project/DirServer2/src/biz/NameValueFacade.java</file>
+    </open-files>
+</project-private>
